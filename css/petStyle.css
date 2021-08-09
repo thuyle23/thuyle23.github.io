@@ -1,0 +1,37 @@
+/* CSS Document */
+
+body{
+	margin: 0;
+}
+.banner-home{
+	background-image: url("../images/pexels-johann-1254140.jpg");
+	height: 300px;
+	background-size: cover;
+	background-position: center;
+	
+}
+.banner-home h1{
+	font-family: 'Quicksand', sans-serif;
+	text-align: center;
+	font-size: 3em;
+	margin-top: 0;
+	color: antiquewhite;
+}
+nav ul li a{
+	font-family: 'Quicksand', sans-serif;
+	text-decoration: none;
+	color: burlywood;
+	background-color: midnightblue;
+	display: block;
+	text-align: center;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+nav ul li a:hover{
+	background-color: aliceblue
+}
+nav ul{
+	list-style: none;
+	padding-left: 0;
+	
+}
